@@ -1,0 +1,18 @@
+.Post-container, .Comment-container{
+    text-align: center;
+    margin: .8rem 20vw;
+    padding: 2rem;
+    border: 2px solid rgb(10, 73, 10);
+}
+.custom-btn{
+    border: none;
+    padding: .7rem 1rem;
+    margin: .7rem 0;
+    background-color: rgb(128, 92, 26);
+    cursor: pointer;
+    border-radius: .7rem;
+    color: #fff;
+}
+.custom-btn:hover{
+    background-color: rgb(161, 113, 23);
+}
