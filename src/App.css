@@ -4,5 +4,10 @@
   box-sizing: border-box;
   text-decoration: none;
 }
+body{
+  background: url("../src/images/background-image.jpg") no-repeat fixed;
+  background-size: cover;
+  color: #fff;
+}
 
 

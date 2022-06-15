@@ -9,7 +9,7 @@ const Post = (props) => {
         <div className="Post-container">
             <h4>{title}</h4>
             <p>{body}</p>
-            <Link to={`/comments/${id}`}><button className='custom-btn comments'>See Comments</button></Link>
+            <Link to={`/comments/${id}`}><button className='custom-btn comments'>See All Comments</button></Link>
             
         </div>
     );
